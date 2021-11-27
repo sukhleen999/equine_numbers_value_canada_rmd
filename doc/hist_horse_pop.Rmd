@@ -1,5 +1,6 @@
 ---
 title: "Historical horse population in Canada"
+bibliography: horse_refs.bib
 output: 
   html_document:
     toc : TRUE
@@ -83,3 +84,4 @@ province_plot <- horse_pop %>%
 province_plot
 ```
 
+# References
